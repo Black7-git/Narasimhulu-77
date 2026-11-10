@@ -1,0 +1,1092 @@
+{
+  "user": {
+    "id": "user_aarav_01",
+    "email": "aarav.sharma@example.com",
+    "name": "Aarav Sharma",
+    "timezone": "Asia/Kolkata",
+    "createdAt": "2026-11-01T00:00:00Z"
+  },
+  "masterProfile": {
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "location": "Bengaluru, Karnataka, India",
+    "linkedinUrl": "https://linkedin.com/in/aarav-sharma-dev",
+    "githubUrl": "https://github.com/aaravsharma",
+    "portfolioUrl": "https://aaravsharma.dev",
+    "summary": "Senior Software Engineer with 4.5+ years building backend microservices, async APIs, and applying LLM architectures with PyTorch and Gemini.",
+    "preferences": {
+      "targetRoles": [
+        "Python Developer",
+        "AI/ML Engineer",
+        "Data Analyst"
+      ],
+      "workArrangement": [
+        "remote",
+        "hybrid"
+      ],
+      "salaryMin": 2200000,
+      "salaryCurrency": "INR",
+      "salaryPeriod": "annual",
+      "noticePeriodDays": 30,
+      "availabilityDate": "2026-12-01",
+      "relocationOpen": true,
+      "workAuthorization": "Citizen of India (Authorized to work without visa sponsorship)"
+    },
+    "facts": [
+      {
+        "id": "f_name",
+        "category": "personal",
+        "label": "Full Name",
+        "value": "Aarav Sharma",
+        "verified": true
+      },
+      {
+        "id": "f_email",
+        "category": "personal",
+        "label": "Email",
+        "value": "aarav.sharma@example.com",
+        "verified": true
+      },
+      {
+        "id": "f_phone",
+        "category": "personal",
+        "label": "Phone",
+        "value": "+91 98765 43210",
+        "verified": true
+      },
+      {
+        "id": "f_loc",
+        "category": "personal",
+        "label": "Location",
+        "value": "Bengaluru, Karnataka, India",
+        "verified": true
+      },
+      {
+        "id": "f_deg",
+        "category": "education",
+        "label": "Highest Degree",
+        "value": "Bachelor of Technology in Computer Science",
+        "verified": true
+      },
+      {
+        "id": "f_inst",
+        "category": "education",
+        "label": "Institution",
+        "value": "Indian Institute of Technology (IIT) Madras",
+        "verified": true
+      },
+      {
+        "id": "f_grad",
+        "category": "education",
+        "label": "Graduation Year",
+        "value": "2021",
+        "verified": true
+      },
+      {
+        "id": "f_exp1",
+        "category": "experience",
+        "label": "Current Role",
+        "value": "Senior Software Engineer at NexusTech Solutions (July 2023 - Present)",
+        "verified": true
+      },
+      {
+        "id": "f_exp2",
+        "category": "experience",
+        "label": "Previous Role",
+        "value": "Software Engineer at CloudLabs India (August 2021 - June 2023)",
+        "verified": true
+      },
+      {
+        "id": "f_sk1",
+        "category": "skill",
+        "label": "Primary Languages",
+        "value": "Python, TypeScript, SQL, Go",
+        "verified": true
+      },
+      {
+        "id": "f_sk2",
+        "category": "skill",
+        "label": "AI & Data Stack",
+        "value": "PyTorch, Gemini SDK, Transformers, BigQuery, PostgreSQL",
+        "verified": true
+      },
+      {
+        "id": "f_auth",
+        "category": "preference",
+        "label": "Work Authorization",
+        "value": "Citizen of India (Full employment rights, no visa sponsorship needed)",
+        "verified": true
+      }
+    ],
+    "conflicts": []
+  },
+  "resumes": [
+    {
+      "id": "res_python_v1",
+      "versionNumber": 1,
+      "title": "Python Backend Engineer (Core)",
+      "filename": "aarav_sharma_python_backend.pdf",
+      "filesizeBytes": 142800,
+      "uploadDate": "2026-11-01T10:00:00Z",
+      "intendedRoles": [
+        "Python Developer",
+        "Backend Engineer"
+      ],
+      "highlightedSkills": [
+        "Python 3.12",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "Docker",
+        "Redis",
+        "Kafka"
+      ],
+      "extractedFactsSummary": [
+        "4.5 years backend engineering at NexusTech and CloudLabs",
+        "Designed high-throughput payment & ingestion pipelines",
+        "B.Tech in Computer Science from IIT Madras (Graduated 2021)"
+      ],
+      "isDefault": false,
+      "isArchived": false,
+      "isVerified": true,
+      "rawTextPreview": "Aarav Sharma — Senior Python Backend Engineer with 4.5+ years building distributed async services..."
+    },
+    {
+      "id": "res_aiml_v1",
+      "versionNumber": 1,
+      "title": "AI / Machine Learning Engineer",
+      "filename": "aarav_sharma_aiml_engineer.pdf",
+      "filesizeBytes": 156400,
+      "uploadDate": "2026-11-03T14:30:00Z",
+      "intendedRoles": [
+        "AI/ML Engineer",
+        "MLOps Engineer",
+        "GenAI Specialist"
+      ],
+      "highlightedSkills": [
+        "PyTorch",
+        "Transformers",
+        "Gemini API",
+        "vLLM",
+        "LangChain",
+        "Python",
+        "MLflow"
+      ],
+      "extractedFactsSummary": [
+        "Deployed enterprise LLM fine-tuning pipelines and RAG systems",
+        "Hands-on PyTorch model inference optimization",
+        "B.Tech in Computer Science from IIT Madras (Graduated 2021)"
+      ],
+      "isDefault": true,
+      "isArchived": false,
+      "isVerified": true,
+      "rawTextPreview": "Aarav Sharma — AI/ML Engineer specializing in LLM application architecture, vector search, and evaluation..."
+    },
+    {
+      "id": "res_data_v1",
+      "versionNumber": 1,
+      "title": "Data & Analytics Specialist",
+      "filename": "aarav_sharma_data_analyst.pdf",
+      "filesizeBytes": 138200,
+      "uploadDate": "2026-11-05T09:15:00Z",
+      "intendedRoles": [
+        "Data Analyst",
+        "BI Analyst",
+        "Analytics Engineer"
+      ],
+      "highlightedSkills": [
+        "Advanced SQL",
+        "dbt",
+        "BigQuery",
+        "Tableau",
+        "Pandas",
+        "Data Warehousing"
+      ],
+      "extractedFactsSummary": [
+        "Architected cross-functional executive dashboards and dbt models",
+        "Led conversion funnel statistical analysis",
+        "B.Tech in Computer Science from IIT Madras (Graduated 2021)"
+      ],
+      "isDefault": false,
+      "isArchived": false,
+      "isVerified": true,
+      "rawTextPreview": "Aarav Sharma — Data & BI Analyst experienced in building trusted data pipelines and predictive modeling..."
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "camp_python",
+      "title": "Python Developer / Backend",
+      "targetTitles": [
+        "Python Developer",
+        "Backend Engineer",
+        "Senior Python Engineer",
+        "Software Engineer - Backend"
+      ],
+      "keywordsIncluded": [
+        "python",
+        "fastapi",
+        "postgresql",
+        "backend"
+      ],
+      "keywordsExcluded": [
+        "intern",
+        "wordpress",
+        "php"
+      ],
+      "experienceLevel": "mid",
+      "locations": [
+        "Bengaluru",
+        "Remote",
+        "Hyderabad",
+        "Pune"
+      ],
+      "workArrangements": [
+        "remote",
+        "hybrid"
+      ],
+      "employmentTypes": [
+        "full_time"
+      ],
+      "salaryMin": 2200000,
+      "currency": "INR",
+      "selectedSources": [
+        "linkedin",
+        "naukri",
+        "instahyre",
+        "cutshort",
+        "greenhouse",
+        "lever"
+      ],
+      "defaultResumeId": "res_python_v1",
+      "relevanceThreshold": 75,
+      "dailyLimit": 8,
+      "todayAppliedCount": 3,
+      "lastResetDate": "2026-11-09",
+      "priority": 1,
+      "mode": "review",
+      "status": "active"
+    },
+    {
+      "id": "camp_aiml",
+      "title": "AI / ML Engineer & LLMs",
+      "targetTitles": [
+        "AI/ML Engineer",
+        "Machine Learning Engineer",
+        "Applied AI Engineer",
+        "Generative AI Developer"
+      ],
+      "keywordsIncluded": [
+        "pytorch",
+        "llm",
+        "transformers",
+        "genai",
+        "python"
+      ],
+      "keywordsExcluded": [
+        "sales",
+        "marketing"
+      ],
+      "experienceLevel": "mid",
+      "locations": [
+        "Bengaluru",
+        "Remote",
+        "Delhi NCR"
+      ],
+      "workArrangements": [
+        "remote",
+        "hybrid",
+        "onsite"
+      ],
+      "employmentTypes": [
+        "full_time"
+      ],
+      "salaryMin": 2600000,
+      "currency": "INR",
+      "selectedSources": [
+        "wellfound",
+        "cutshort",
+        "greenhouse",
+        "ashby",
+        "remoteok"
+      ],
+      "defaultResumeId": "res_aiml_v1",
+      "relevanceThreshold": 80,
+      "dailyLimit": 6,
+      "todayAppliedCount": 1,
+      "lastResetDate": "2026-11-09",
+      "priority": 2,
+      "mode": "review",
+      "status": "active"
+    },
+    {
+      "id": "camp_data",
+      "title": "Data Analyst & BI",
+      "targetTitles": [
+        "Data Analyst",
+        "Senior Data Analyst",
+        "BI Engineer",
+        "Analytics Engineer"
+      ],
+      "keywordsIncluded": [
+        "sql",
+        "tableau",
+        "bigquery",
+        "data analysis"
+      ],
+      "keywordsExcluded": [
+        "data entry",
+        "excel only"
+      ],
+      "experienceLevel": "mid",
+      "locations": [
+        "Bengaluru",
+        "Remote",
+        "Mumbai"
+      ],
+      "workArrangements": [
+        "remote",
+        "hybrid"
+      ],
+      "employmentTypes": [
+        "full_time"
+      ],
+      "salaryMin": 1800000,
+      "currency": "INR",
+      "selectedSources": [
+        "naukri",
+        "foundit",
+        "hirist"
+      ],
+      "defaultResumeId": "res_data_v1",
+      "relevanceThreshold": 70,
+      "dailyLimit": 5,
+      "todayAppliedCount": 0,
+      "lastResetDate": "2026-11-09",
+      "priority": 3,
+      "mode": "review",
+      "status": "active"
+    },
+    {
+      "id": "camp_cyber",
+      "title": "Cybersecurity Analyst",
+      "targetTitles": [
+        "Cybersecurity Analyst",
+        "Security Engineer",
+        "SOC Analyst",
+        "InfoSec Specialist"
+      ],
+      "keywordsIncluded": [
+        "soc",
+        "siem",
+        "network security",
+        "penetration testing"
+      ],
+      "keywordsExcluded": [
+        "guard",
+        "cctv"
+      ],
+      "experienceLevel": "entry",
+      "locations": [
+        "Bengaluru",
+        "Remote",
+        "Hyderabad"
+      ],
+      "workArrangements": [
+        "remote",
+        "hybrid",
+        "onsite"
+      ],
+      "employmentTypes": [
+        "full_time"
+      ],
+      "salaryMin": 1600000,
+      "currency": "INR",
+      "selectedSources": [
+        "timesjobs",
+        "shine",
+        "internshala"
+      ],
+      "defaultResumeId": "res_python_v1",
+      "relevanceThreshold": 70,
+      "dailyLimit": 4,
+      "todayAppliedCount": 0,
+      "lastResetDate": "2026-11-09",
+      "priority": 4,
+      "mode": "review",
+      "status": "paused"
+    },
+    {
+      "id": "camp_network",
+      "title": "Network Analyst",
+      "targetTitles": [
+        "Network Analyst",
+        "Network Operations Engineer",
+        "NOC Engineer"
+      ],
+      "keywordsIncluded": [
+        "tcp/ip",
+        "routing",
+        "cisco",
+        "firewall",
+        "noc"
+      ],
+      "keywordsExcluded": [
+        "telecom sales"
+      ],
+      "experienceLevel": "entry",
+      "locations": [
+        "Bengaluru",
+        "Chennai",
+        "Remote"
+      ],
+      "workArrangements": [
+        "onsite",
+        "hybrid"
+      ],
+      "employmentTypes": [
+        "full_time"
+      ],
+      "salaryMin": 1500000,
+      "currency": "INR",
+      "selectedSources": [
+        "apna",
+        "ncs",
+        "unstop"
+      ],
+      "defaultResumeId": "res_python_v1",
+      "relevanceThreshold": 65,
+      "dailyLimit": 4,
+      "todayAppliedCount": 0,
+      "lastResetDate": "2026-11-09",
+      "priority": 5,
+      "mode": "review",
+      "status": "paused"
+    }
+  ],
+  "connections": {
+    "linkedin": {
+      "platformId": "linkedin",
+      "status": "connected",
+      "authMethod": "isolated_browser_session",
+      "maskedAccountIdentifier": "aarav.sharma@***.com",
+      "lastSuccessfulCheck": "2026-11-08T18:30:00Z"
+    },
+    "naukri": {
+      "platformId": "naukri",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "indeed": {
+      "platformId": "indeed",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "foundit": {
+      "platformId": "foundit",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "shine": {
+      "platformId": "shine",
+      "status": "manual_only",
+      "authMethod": "manual"
+    },
+    "timesjobs": {
+      "platformId": "timesjobs",
+      "status": "manual_only",
+      "authMethod": "manual"
+    },
+    "glassdoor": {
+      "platformId": "glassdoor",
+      "status": "manual_only",
+      "authMethod": "manual"
+    },
+    "wellfound": {
+      "platformId": "wellfound",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "cutshort": {
+      "platformId": "cutshort",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "instahyre": {
+      "platformId": "instahyre",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "hirist": {
+      "platformId": "hirist",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "internshala": {
+      "platformId": "internshala",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "unstop": {
+      "platformId": "unstop",
+      "status": "manual_only",
+      "authMethod": "manual"
+    },
+    "freshersworld": {
+      "platformId": "freshersworld",
+      "status": "manual_only",
+      "authMethod": "manual"
+    },
+    "apna": {
+      "platformId": "apna",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "ncs": {
+      "platformId": "ncs",
+      "status": "manual_only",
+      "authMethod": "manual"
+    },
+    "remoteok": {
+      "platformId": "remoteok",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "weworkremotely": {
+      "platformId": "weworkremotely",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "remotive": {
+      "platformId": "remotive",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "greenhouse": {
+      "platformId": "greenhouse",
+      "status": "connected",
+      "authMethod": "isolated_browser_session",
+      "maskedAccountIdentifier": "Guest ATS (Direct Form Submission)",
+      "lastSuccessfulCheck": "2026-11-08T20:00:00Z"
+    },
+    "lever": {
+      "platformId": "lever",
+      "status": "connected",
+      "authMethod": "isolated_browser_session",
+      "maskedAccountIdentifier": "Guest ATS (Direct Form Submission)",
+      "lastSuccessfulCheck": "2026-11-08T20:00:00Z"
+    },
+    "ashby": {
+      "platformId": "ashby",
+      "status": "connected",
+      "authMethod": "isolated_browser_session",
+      "maskedAccountIdentifier": "Guest ATS (Direct Form Submission)",
+      "lastSuccessfulCheck": "2026-11-08T20:00:00Z"
+    },
+    "workday": {
+      "platformId": "workday",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "smartrecruiters": {
+      "platformId": "smartrecruiters",
+      "status": "not_connected",
+      "authMethod": "isolated_browser_session"
+    },
+    "sap_successfactors": {
+      "platformId": "sap_successfactors",
+      "status": "manual_only",
+      "authMethod": "manual"
+    }
+  },
+  "jobs": [
+    {
+      "id": "job_greenhouse_1",
+      "title": "Senior Python / Distributed Systems Engineer",
+      "employer": "RazorStream Technologies",
+      "requisitionId": "RZ-8419",
+      "sourcePlatformId": "greenhouse",
+      "canonicalUrl": "https://boards.greenhouse.io/razorstream/jobs/8419",
+      "applicationDestinationUrl": "https://boards.greenhouse.io/razorstream/jobs/8419#app",
+      "fullDescription": "We are seeking an experienced Backend Engineer to scale our real-time streaming infrastructure. Responsibilities include designing async Python microservices with FastAPI, optimizing PostgreSQL and Redis caches, and collaborating with infrastructure teams.",
+      "requirements": [
+        "Python 3.10+",
+        "FastAPI / AsyncIO",
+        "PostgreSQL performance tuning",
+        "Docker / Kubernetes",
+        "Min 3 years backend experience"
+      ],
+      "location": "Bengaluru, India (Hybrid)",
+      "workArrangement": "hybrid",
+      "salaryDisplay": "₹24,00,000 - ₹30,00,000 PA",
+      "postedDate": "2026-11-06",
+      "retrievalTime": "2026-11-08T12:00:00Z",
+      "capabilityStatus": "permitted_browser_assistance"
+    },
+    {
+      "id": "job_lever_2",
+      "title": "Applied AI / ML Engineer (LLMs)",
+      "employer": "Synthetix AI Labs",
+      "requisitionId": "SYN-2204",
+      "sourcePlatformId": "lever",
+      "canonicalUrl": "https://jobs.lever.co/synthetix/2204",
+      "applicationDestinationUrl": "https://jobs.lever.co/synthetix/2204/apply",
+      "fullDescription": "Synthetix is building next-generation agentic workflows. You will optimize open-weight and closed-source model pipelines using PyTorch, integrate vector search solutions, and build robust prompt evaluation frameworks.",
+      "requirements": [
+        "PyTorch or JAX",
+        "Transformers & HuggingFace",
+        "Experience with RAG pipelines",
+        "Strong Python skills",
+        "BS/B.Tech in Computer Science or related"
+      ],
+      "location": "Remote (India)",
+      "workArrangement": "remote",
+      "salaryDisplay": "₹28,00,000 - ₹36,00,000 PA",
+      "postedDate": "2026-11-07",
+      "retrievalTime": "2026-11-08T14:30:00Z",
+      "capabilityStatus": "permitted_browser_assistance"
+    },
+    {
+      "id": "job_test_employer_3",
+      "title": "Lead Software Engineer (Interactive Sandbox)",
+      "employer": "Local Test Employer Corp",
+      "requisitionId": "TEST-SANDBOX-01",
+      "sourcePlatformId": "greenhouse",
+      "canonicalUrl": "http://localhost:3000/test-employer",
+      "applicationDestinationUrl": "http://localhost:3000/test-employer/apply",
+      "fullDescription": "Dedicated verification employer sandbox for end-to-end testing: includes multi-step conditional questions, file attachments, and a verified CAPTCHA challenge requiring Take Control handoff.",
+      "requirements": [
+        "Full-stack engineering",
+        "API design",
+        "Problem solving"
+      ],
+      "location": "Remote",
+      "workArrangement": "remote",
+      "salaryDisplay": "₹25,00,000 PA",
+      "postedDate": "2026-11-08",
+      "retrievalTime": "2026-11-08T18:00:00Z",
+      "capabilityStatus": "permitted_browser_assistance"
+    }
+  ],
+  "jobMatches": [
+    {
+      "id": "match_1",
+      "jobId": "job_greenhouse_1",
+      "campaignId": "camp_python",
+      "relevanceScore": 92,
+      "matchingSkills": [
+        "Python 3.12",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "relevantProjects": [
+        "High-throughput ingestion pipeline at NexusTech",
+        "Distributed async services"
+      ],
+      "missingRequirements": [
+        "Kubernetes cluster administration"
+      ],
+      "unknownEligibility": [],
+      "scoreExplanation": "Direct 92% match: Title, backend technologies, location (Bengaluru Hybrid), and salary threshold align precisely.",
+      "deduplicationKey": "razorstreamtechnologies_rz8419"
+    },
+    {
+      "id": "match_2",
+      "jobId": "job_lever_2",
+      "campaignId": "camp_aiml",
+      "relevanceScore": 94,
+      "matchingSkills": [
+        "PyTorch",
+        "Transformers",
+        "Gemini API",
+        "RAG Pipelines"
+      ],
+      "relevantProjects": [
+        "Enterprise LLM fine-tuning pipelines",
+        "Vector database search benchmarks"
+      ],
+      "missingRequirements": [
+        "JAX experience"
+      ],
+      "unknownEligibility": [],
+      "scoreExplanation": "High 94% alignment: Meets full ML stack requirements, remote preference, and exceeds minimum compensation expectations.",
+      "deduplicationKey": "synthetixailabs_syn2204"
+    },
+    {
+      "id": "match_3",
+      "jobId": "job_test_employer_3",
+      "campaignId": "camp_python",
+      "relevanceScore": 88,
+      "matchingSkills": [
+        "Python",
+        "Full-stack engineering",
+        "API design"
+      ],
+      "relevantProjects": [
+        "Production microservice architecture"
+      ],
+      "missingRequirements": [],
+      "unknownEligibility": [],
+      "scoreExplanation": "Sandbox verification job matches target role parameters.",
+      "deduplicationKey": "localtestemployercorp_testsandbox01"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app_1",
+      "jobId": "job_greenhouse_1",
+      "campaignId": "camp_python",
+      "resumeVersionId": "res_python_v1",
+      "coverLetterText": "Dear Hiring Team at RazorStream Technologies,\n\nI am writing to express my enthusiasm for the Senior Python / Distributed Systems Engineer position...",
+      "status": "Submitted",
+      "mode": "review",
+      "answers": [
+        {
+          "fieldId": "fld_email",
+          "fieldKey": "email",
+          "questionText": "Email Address",
+          "answerValue": "aarav.sharma@example.com",
+          "classification": "factual",
+          "provenanceFacts": [
+            "Master Profile Contact: Email"
+          ],
+          "confidence": 1,
+          "userVerified": true
+        },
+        {
+          "fieldId": "fld_phone",
+          "fieldKey": "phone",
+          "questionText": "Mobile Phone",
+          "answerValue": "+91 98765 43210",
+          "classification": "factual",
+          "provenanceFacts": [
+            "Master Profile Contact: Phone"
+          ],
+          "confidence": 1,
+          "userVerified": true
+        },
+        {
+          "fieldId": "fld_experience",
+          "fieldKey": "years_experience",
+          "questionText": "How many years of professional experience do you have in Python & FastAPI?",
+          "answerValue": "4.5 years of hands-on experience building async Python services at NexusTech and CloudLabs.",
+          "classification": "factual",
+          "provenanceFacts": [
+            "Resume Fact: 4.5 years backend engineering",
+            "Master Profile: Experience"
+          ],
+          "confidence": 0.95,
+          "userVerified": true
+        },
+        {
+          "fieldId": "fld_why",
+          "fieldKey": "why_hire",
+          "questionText": "Why are you interested in joining RazorStream Technologies?",
+          "answerValue": "With verified background in high-throughput data streaming and FastAPI microservices, I can contribute immediately to RazorStream's real-time ingestion pipelines with disciplined, tested code.",
+          "classification": "narrative",
+          "provenanceFacts": [
+            "Master Profile: Verified Skills",
+            "Resume: Python Core"
+          ],
+          "confidence": 0.9,
+          "userVerified": true
+        }
+      ],
+      "discoveredFields": [
+        {
+          "id": "fld_email",
+          "key": "email",
+          "label": "Email Address",
+          "type": "text",
+          "required": true,
+          "discovered": true
+        },
+        {
+          "id": "fld_phone",
+          "key": "phone",
+          "label": "Mobile Phone",
+          "type": "text",
+          "required": true,
+          "discovered": true
+        },
+        {
+          "id": "fld_experience",
+          "key": "years_experience",
+          "label": "How many years of experience in Python?",
+          "type": "text",
+          "required": true,
+          "discovered": true
+        },
+        {
+          "id": "fld_why",
+          "key": "why_hire",
+          "label": "Why are you interested in joining?",
+          "type": "textarea",
+          "required": false,
+          "discovered": true
+        }
+      ],
+      "conditionalQuestionsDiscovered": true,
+      "requiredFieldsComplete": true,
+      "createdAt": "2026-11-08T15:00:00Z",
+      "updatedAt": "2026-11-09T06:11:55.944Z",
+      "timeline": [
+        {
+          "time": "2026-11-09T06:11:55.944Z",
+          "status": "Submitted",
+          "message": "Successfully submitted. Confirmation ID: SUB-MW8V5V3C-571",
+          "actor": "worker"
+        },
+        {
+          "time": "2026-11-09T06:11:53.314Z",
+          "status": "Approved",
+          "message": "Application explicitly approved by candidate for submission.",
+          "actor": "user"
+        },
+        {
+          "time": "2026-11-08T15:00:00Z",
+          "status": "Matched",
+          "message": "Job matched to Python Developer Campaign (Relevance: 92%)",
+          "actor": "ai"
+        },
+        {
+          "time": "2026-11-08T15:05:00Z",
+          "status": "Drafting",
+          "message": "Form fields discovered; grounded answers generated from verified candidate facts",
+          "actor": "ai"
+        },
+        {
+          "time": "2026-11-08T15:15:00Z",
+          "status": "Ready for Review",
+          "message": "Prepared application preview awaiting user approval",
+          "actor": "ai"
+        }
+      ],
+      "submissionReceipt": {
+        "timestamp": "2026-11-09T06:11:55.944Z",
+        "confirmationId": "SUB-MW8V5V3C-571",
+        "isUncertain": false,
+        "message": "Application officially received by RazorStream Technologies. Requisition ID: RZ-8419."
+      }
+    },
+    {
+      "id": "app_2_action_required",
+      "jobId": "job_test_employer_3",
+      "campaignId": "camp_python",
+      "resumeVersionId": "res_python_v1",
+      "status": "User in Control",
+      "mode": "review",
+      "browserSessionId": "sess_sandbox_01",
+      "answers": [
+        {
+          "fieldId": "fld_name",
+          "fieldKey": "full_name",
+          "questionText": "Candidate Full Name",
+          "answerValue": "Aarav Sharma",
+          "classification": "factual",
+          "provenanceFacts": [
+            "Master Profile: Full Name"
+          ],
+          "confidence": 1,
+          "userVerified": true
+        },
+        {
+          "fieldId": "fld_email",
+          "fieldKey": "email",
+          "questionText": "Email Address",
+          "answerValue": "aarav.sharma@example.com",
+          "classification": "factual",
+          "provenanceFacts": [
+            "Master Profile: Email"
+          ],
+          "confidence": 1,
+          "userVerified": true
+        }
+      ],
+      "discoveredFields": [
+        {
+          "id": "fld_name",
+          "key": "full_name",
+          "label": "Candidate Full Name",
+          "type": "text",
+          "required": true,
+          "discovered": true
+        },
+        {
+          "id": "fld_email",
+          "key": "email",
+          "label": "Email Address",
+          "type": "text",
+          "required": true,
+          "discovered": true
+        }
+      ],
+      "conditionalQuestionsDiscovered": true,
+      "requiredFieldsComplete": true,
+      "createdAt": "2026-11-08T18:00:00Z",
+      "updatedAt": "2026-11-08T18:10:00Z",
+      "timeline": [
+        {
+          "time": "2026-11-09T06:09:33.678Z",
+          "status": "User in Control",
+          "message": "User engaged Take Control. Worker automation safely halted.",
+          "actor": "user"
+        },
+        {
+          "time": "2026-11-08T18:00:00Z",
+          "status": "Matched",
+          "message": "Assigned to Sandbox test job",
+          "actor": "ai"
+        },
+        {
+          "time": "2026-11-08T18:02:00Z",
+          "status": "Filling",
+          "message": "Automated field filling commenced in isolated browser session",
+          "actor": "worker"
+        },
+        {
+          "time": "2026-11-08T18:05:00Z",
+          "status": "Waiting for CAPTCHA",
+          "message": "Cloudflare / Turnstile CAPTCHA challenge detected on employer form. Automation paused safely. Please click Take Control to solve.",
+          "actor": "worker"
+        }
+      ]
+    }
+  ],
+  "browserSessions": {
+    "sess_sandbox_01": {
+      "id": "sess_sandbox_01",
+      "applicationId": "app_2_action_required",
+      "platformId": "greenhouse",
+      "currentUrl": "http://localhost:3000/test-employer",
+      "state": "paused",
+      "isWorkerPaused": true,
+      "interventionReason": "captcha",
+      "lastHeartbeat": 1794204511153,
+      "controlLease": {
+        "leaseId": "lease_sess_sandbox_01_1794204573678_v1",
+        "applicationId": "app_2_action_required",
+        "grantedToUserId": "user_aarav_01",
+        "grantedAt": 1794204573678,
+        "expiresAt": 1794204873678,
+        "version": 1
+      }
+    }
+  },
+  "automationPolicy": {
+    "overallDailyLimit": 25,
+    "todayAppliedTotal": 4,
+    "timezone": "Asia/Kolkata",
+    "pauseAll": false,
+    "reviewBeforeSubmit": true,
+    "stopOnUnknownFacts": true,
+    "stopOnCaptcha": true,
+    "stopOnNewConsent": true,
+    "stopOnExpiredLogin": true,
+    "perCompanyCap": 2
+  },
+  "gmailOtpConfig": {
+    "enabled": false,
+    "scopesGranted": [
+      "https://www.googleapis.com/auth/gmail.readonly"
+    ],
+    "allowedDomains": [
+      "greenhouse.io",
+      "lever.co",
+      "ashbyhq.com",
+      "naukri.com",
+      "linkedin.com"
+    ]
+  },
+  "auditEvents": [
+    {
+      "id": "aud_1794204715944_x13b",
+      "timestamp": "2026-11-09T06:11:55.944Z",
+      "actor": "system",
+      "action": "APPLICATION_SUBMITTED",
+      "details": "Application app_1 submitted to RazorStream Technologies (Receipt: SUB-MW8V5V3C-571)"
+    },
+    {
+      "id": "aud_1794204713315_t5mx",
+      "timestamp": "2026-11-09T06:11:53.315Z",
+      "actor": "user",
+      "action": "APPLICATION_APPROVED",
+      "details": "Candidate approved application app_1"
+    },
+    {
+      "id": "aud_1794204573679_evsl",
+      "timestamp": "2026-11-09T06:09:33.679Z",
+      "actor": "user",
+      "action": "TAKE_CONTROL_ACQUIRED",
+      "details": "Exclusive lease acquired for session sess_sandbox_01"
+    },
+    {
+      "id": "aud_init",
+      "timestamp": "2026-11-08T18:00:00Z",
+      "actor": "system",
+      "action": "SYSTEM_INITIALIZED",
+      "details": "ApplyPilot environment initialized with 3 active resumes and 5 target role campaigns."
+    }
+  ],
+  "autoSearchConfig": {
+    "enabled": true,
+    "intervalMinutes": 60,
+    "autoApplyWhenMatched": true,
+    "minRelevanceThreshold": 78,
+    "autoCreatePortalAccountWithGmail": true,
+    "candidateGmailId": "aarav.sharma@example.com",
+    "targetPortalIds": [
+      "greenhouse",
+      "lever",
+      "workday",
+      "ashby",
+      "smartrecruiters",
+      "linkedin",
+      "naukri"
+    ],
+    "lastRunAt": "2026-11-10T04:05:27.817Z",
+    "nextRunAt": "2026-11-10T05:05:27.817Z",
+    "totalDiscoveredCount": 3,
+    "totalAutoAppliedCount": 1,
+    "totalAccountsCreatedCount": 2,
+    "portalAccounts": [
+      {
+        "id": "portal_acc_seed_1",
+        "platformId": "greenhouse",
+        "portalName": "RazorStream Technologies (Greenhouse ATS)",
+        "portalDomain": "boards.greenhouse.io/razorstreamtechnologies",
+        "emailUsed": "aarav.sharma@example.com",
+        "authStatus": "provisioned_verified",
+        "createdAt": "2026-11-10T04:05:27.817Z",
+        "lastUsedAt": "2026-11-10T04:05:27.817Z",
+        "jobId": "job_greenhouse_1"
+      },
+      {
+        "id": "portal_acc_seed_2",
+        "platformId": "lever",
+        "portalName": "Synthetix AI Labs (Lever ATS)",
+        "portalDomain": "jobs.lever.co/synthetixailabs",
+        "emailUsed": "aarav.sharma@example.com",
+        "authStatus": "provisioned_verified",
+        "createdAt": "2026-11-10T04:05:27.817Z",
+        "lastUsedAt": "2026-11-10T04:05:27.817Z",
+        "jobId": "job_lever_2"
+      }
+    ],
+    "recentRuns": [
+      {
+        "id": "run_seed_init",
+        "timestamp": "2026-11-10T04:05:27.817Z",
+        "trigger": "hourly_schedule",
+        "platformsScanned": 7,
+        "jobsDiscovered": 3,
+        "matchedJobs": 3,
+        "accountsCreated": 2,
+        "autoAppliedCount": 1,
+        "summary": "Scanned 7 career portals & hiring platforms; matched 3 roles, verified 2 portal accounts with Gmail ID."
+      }
+    ]
+  }
+}

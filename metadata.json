@@ -1,0 +1,8 @@
+{
+  "name": "ApplyPilot - AI Job Application Assistant",
+  "description": "AI-powered job application copilot with verified candidate profiles, multi-role campaigns, resume matching, grounded answers, task control, and manual Take Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
